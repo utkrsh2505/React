@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+
+  
+  height: 1000px;
+ 
+  background-color: rgb(200, 232, 233);
+}
+
+.input-box {
+  width: 300px;
+  font-size: 20px;
+  padding: 5px;
+}
+button {
+  font-size: 20px;
+  padding: 5px;
+  color : white;
+  background-color: rgb(52, 53, 53);
+  margin:10px;
+  border-radius: 4px;
+}
+button:hover {
+ cursor: pointer;
+  color : white;
+  background-color: rgb(120, 167, 120);
+ 
+}
+.list{
+  margin: 10px;
+  font-size: 30px;
+  text-transform: capitalize;
+}
